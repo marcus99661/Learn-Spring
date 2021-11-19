@@ -23,6 +23,11 @@ public class TaskController {
         }
     }
 
+    @GetMapping("/test")
+    public String getAddress(@PathVariable String name) {
+        return "REQUESTS IS WORKING";
+    }
+
     /*
     ConcurrentMap<String, String> addressBook = new ConcurrentHashMap<>();
 
