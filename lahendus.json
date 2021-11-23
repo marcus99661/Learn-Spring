@@ -1,0 +1,6 @@
+{
+    "muutujad": ["a","b"],
+    "tekst": "Korrapärase nelinurkse püramiidi põhiserv on {a}dm ja püramiidi apoteem {b}dm. Arvutage püramiidi täispindala.",
+    "lahendus": ["Sp={a}*{a}", "Sk=4*{a}*{b}", "St={Sp}+{Sk}"],
+    "vastuseSymbol":"St"
+}
