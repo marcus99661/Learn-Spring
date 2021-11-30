@@ -1,5 +1,5 @@
 {
-    "muutujad": ["a","b","c"],
+    "muutujad": {"a": "10-20", "b": "10-20", "c": "10-20"},
     "tekst": "Leia kolmnurga pindala, mille küljed on {a}m, {b}m, {c}m",
     "lahendus": ["p=({a}+{b}+{c})/2", "S=sqrt({p}*({p}-{a})*({p}-{b})*({p}-{c}))"],
     "vastuseSymbol":"S"
