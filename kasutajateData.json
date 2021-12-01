@@ -1,6 +1,8 @@
 {
     "admin": {
         "points": "1000",
-        "health": "1000"
+        "health": "1000",
+        "viimaneVastus": "",
+        "lahendus": ""
     }
 }
